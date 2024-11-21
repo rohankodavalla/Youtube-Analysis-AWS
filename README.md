@@ -5,7 +5,7 @@
 This project implements an end-to-end YouTube video analysis pipeline leveraging key AWS services such as S3, Lambda, and Athena. The goal is to process and analyze YouTube data to derive insights that support data-driven decision-making and trend forecasting.
 
 **Architecture**
-![Architecture Diagram](https://github.com/rohankodavalla/Youtube-Analysis-AWS/raw/latest_branch/architecture.jpeg)
+![Architecture Diagram](https://github.com/rohankodavalla/Youtube-Analysis-AWS/raw/latest_branch/Arch.jpeg)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
